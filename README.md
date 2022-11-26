@@ -1,3 +1,3 @@
 # ashbn.github.io
 
-This website is under construction :construction:
+This website is under construction :)
